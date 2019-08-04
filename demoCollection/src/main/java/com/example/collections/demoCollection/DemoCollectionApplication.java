@@ -25,7 +25,7 @@ public class DemoCollectionApplication {
 		HashSet<Integer> hashSetCol = new HashSet<>();
 
 
-		/*executionValidationTime(list);
+		executionValidationTime(list);
 		executionValidationTime(linkedList);
 		executionValidationMapsTime(treeMap);
 		executionValidationMapsTime(hashMap);
@@ -34,7 +34,7 @@ public class DemoCollectionApplication {
 		validateSortInTreeSet();
 		executionTimeSet(hashSet);
 		executionTimeSet(treeSetCol);
-		executionTimeTreeSet(hashSetCol);*/
+		executionTimeTreeSet(hashSetCol);
 		printNameHashSetCollection();
 
 	}
